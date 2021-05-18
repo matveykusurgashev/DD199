@@ -1,0 +1,106 @@
+.glav_btn {
+height: 60px;
+width: 250px;
+background-color: pink;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 80px;
+}
+
+.btn_AC {
+    height: 50px;
+    width: 160px;
+    margin: 0 0 20px 0;
+    background-color: lightsteelblue;
+}
+
+.btn_delenie  {
+    height: 50px;
+    width: 90px;
+    background-color: lightsteelblue;
+}
+
+.btn7 {
+height: 60px;
+width: 60px;
+background-color: linen;
+}
+
+.btn8 {
+height: 60px;
+width: 60px;
+background-color: linen;
+}
+
+.btn9 {
+height: 60px;
+width: 60px;
+background-color: linen;
+}
+
+.btnUm {
+height: 60px;
+width: 60px;
+background-color: lightsteelblue;
+}
+
+.btn4 {
+height: 60px;
+width: 60px;
+background-color: linen;
+}
+
+.btn5 {
+    height: 60px;
+    width: 60px;
+    background-color: linen;
+    }
+
+.btn6 {
+height: 60px;
+width: 60px;
+background-color: linen;
+}
+
+.btnMIN {
+height: 60px;
+width: 60px;
+background-color: lightsteelblue;
+}
+
+.btn1 {
+height: 60px;
+width: 60px;
+background-color: linen;
+}
+
+.btn2 {
+height: 60px;
+width: 60px;
+background-color: linen;
+}
+
+.btn3 {
+height: 60px;
+width: 60px;
+background-color: linen;
+}
+
+.btnPlus {
+height: 60px;
+width: 60px;
+background-color: lightsteelblue;
+}
+
+.btn0 {
+width: 125px;
+background-color: linen;
+}
+
+.btnravno {
+width: 125px;
+background-color: cornflowerblue;
+}
